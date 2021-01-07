@@ -1,12 +1,6 @@
-# Project Two - Group 3
-
-![A Team](ATeam.jpg)
-
 ## The A Team - Machine Learning & Portfolio Analysis
 
 ![Robot Photo](RoboThinker.png)
-
-## Background
 
 ### Portfolio
 
